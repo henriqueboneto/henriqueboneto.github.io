@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.png
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -56,7 +56,7 @@ authors:
     name: Henrique Boneto
     bio: Engineering Physics Student. Interested and currently studying Econophysics, Software Development and Data Science.
     external-image: false
-    picture: assets/images/profile.png
+    picture: assets/images/profile.jpg
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -72,7 +72,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
