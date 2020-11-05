@@ -56,7 +56,7 @@ authors:
     name: Henrique Boneto
     bio: Engineering Physics Student. Interested and currently studying Econophysics, Software Development and Data Science.
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/profile.png
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -75,7 +75,7 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: false
 
 # do you want to show the "read time" of the posts?
